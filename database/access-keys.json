@@ -3,8 +3,9 @@
     "id": "10d4af20-cdb6-45dc-aafc-29a2c81a8e86",
     "accountId": "a598c737-c122-4f82-a56c-fca6b346cb0c",
     "hash": "d212c65e9eebb84b9a8a8c1ba6f374498f1a5568468271556d320898e4cb1fef",
-    "used": false,
+    "used": true,
     "revoked": false,
-    "createdAt": "2026-11-08T14:38:55.531Z"
+    "createdAt": "2026-11-08T14:38:55.531Z",
+    "usedAt": "2026-11-08T14:45:50.460Z"
   }
 ]
